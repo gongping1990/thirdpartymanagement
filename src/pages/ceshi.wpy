@@ -1,0 +1,19 @@
+<template>
+  <view class="p-conent">
+
+  </view>
+</template>
+<script>
+  import wepy from 'wepy'
+
+  export default class ceshi extends wepy.page {
+    config = {
+      navigationBarTitleText: '进入测试',
+      navigationBarTextStyle: 'white',
+      navigationBarBackgroundColor: '#FF772D'
+    }
+  }
+</script>
+<style lang="scss">
+
+</style>
